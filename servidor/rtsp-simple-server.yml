@@ -124,7 +124,7 @@ hlsAllowOrigin: '*'
 # another entry.
 paths:
   all:
-    publishUser: userp
-    publishPass: passp
-    readUser: userr
-    readPass: passr
+    publishUser: myuserpublish
+    publishPass: myuserpublish
+    readUser: myuserread
+    readPass: mypassread
